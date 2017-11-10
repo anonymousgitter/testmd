@@ -24,6 +24,17 @@
 
 * <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" height="64" /> item2
 
+* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: top;" />
+
+* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: middle;" />
+
+* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: bottom;" />
+
+* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: top;" />  item2
+
+* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: middle;" /> item2
+
+* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: bottom;" /> item2
 
 
 
