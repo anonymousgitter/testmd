@@ -24,17 +24,17 @@
 
 * <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" height="64" /> item2
 
-* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: top;" />
+* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: top; line-height: 64px;" />
 
-* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: middle;" />
+* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: middle; line-height: 64px;" />
 
-* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: bottom;" />
+* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: bottom; line-height: 64px;" />
 
-* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: top;" />  item2
+* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: top; line-height: 64px;" />  item2
 
-* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: middle;" /> item2
+* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: middle; line-height: 64px;" /> item2
 
-* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: bottom;" /> item2
+* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: bottom; line-height: 64px;" /> item2
 
 
 
