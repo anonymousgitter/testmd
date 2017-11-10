@@ -19,6 +19,6 @@
 
 * item4
  <div style="text-align:center">
-<img src="https://user-images.githubusercontent.com/642120/32525254-d600206a-c423-11e7-8e14-81d16ae5021b.png" alt="Drawing" style="width: 200px;height=200px;"/>
+<img src="https://user-images.githubusercontent.com/642120/32525254-d600206a-c423-11e7-8e14-81d16ae5021b.png" alt="Drawing" width= "200" height="200" />
 </div>
 
