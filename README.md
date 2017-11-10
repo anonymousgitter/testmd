@@ -14,7 +14,7 @@
 
 * item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: top;" />
 
-* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: middle;" height="32" /> item2 
+* <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: bottom;" height="32" /> item2 
 
 
 
