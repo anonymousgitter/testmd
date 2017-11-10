@@ -12,6 +12,6 @@
 ![Pic1](https://www.linux.org/styles/uix/uix/logo.png?raw=true)
 
 
-* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" height="96" vertical-align="middle" height="64" />
+* item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" height="96" vertical-align="middle" height="32" />
 
 
