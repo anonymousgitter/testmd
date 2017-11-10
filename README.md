@@ -13,7 +13,7 @@
 
 
 * item2
-<img src="https://user-images.githubusercontent.com/1629853/32491094-b39abb34-c3b5-11e7-897a-1bb60ea8abcf.png" alt="Linux" height="96" />
+<img src="https://user-images.githubusercontent.com/1629853/32491094-b39abb34-c3b5-11e7-897a-1bb60ea8abcf.png" alt="Linux" height="96" vertical-align="middle" />
 
 
 * item3
