@@ -15,7 +15,7 @@
 ![Pic2](https://user-images.githubusercontent.com/1629853/32491094-b39abb34-c3b5-11e7-897a-1bb60ea8abcf.png?raw=true)
 
 * item3
-![Pic3](https://user-images.githubusercontent.com/642120/32525254-d600206a-c423-11e7-8e14-81d16ae5021b.png?raw=true)
+![Pic3](https://user-images.githubusercontent.com/642120/32525254-d600206a-c423-11e7-8e14-81d16ae5021b.png?raw=true){:height="187px" width="180px"}
 
 * item4
  <div style="text-align:center">
