@@ -9,7 +9,7 @@
 ## items with picture
 
 * item1
-![Pic1](https://www.linux.org/styles/uix/uix/logo.png?raw=true)
+![Pic1](https://www.linux.org/styles/uix/uix/logo.png?raw=true =100x200)
 
 
 * item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align:top;" />
