@@ -4,10 +4,6 @@
  <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: middle; line-height: 64px;" /><h2>item1</h2> 
 </div>
 
-<div classe="sponsor style="vertical-align: middle; line-height: 64px;">
- <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" /><h2>item1</h2> 
-</div>
-
 ## items
 
 * item1
@@ -17,7 +13,7 @@
 ## items with picture
 
 * item1
-![Pic1](https://www.linux.org/styles/uix/uix/logo.png?raw=true)
+![Pic1](https://www.linux.org/styles/uix/uix/logo.png?raw=true width=64x64)
 
 
 * item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" height="32" />
