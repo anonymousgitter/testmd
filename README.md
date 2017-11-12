@@ -1,6 +1,6 @@
 # testmd
 
-<div classe="sponsor style="text-height: 5em;">
+<div classe="sponsor style="text-height: 5em;vertical-align: middle;">
 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" height="32" />item1
 </div>
 
