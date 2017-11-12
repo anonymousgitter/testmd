@@ -42,5 +42,9 @@
 ![Pic1](https://www.linux.org/styles/uix/uix/logo.png?raw=true)
 ### item1
 
+<div classe="sponsor">
+ <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: middle; line-height: 128px;" /> item1 
+</div>
+
 
 
