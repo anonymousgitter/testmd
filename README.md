@@ -1,7 +1,7 @@
 # testmd
 
 <div classe="sponsor>
-<img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" />item1
+<img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" height="64" />item1
 </div>
 
 ## items
