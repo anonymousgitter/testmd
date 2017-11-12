@@ -1,7 +1,7 @@
 # testmd
 
 <div classe="sponsor>
- <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" style="vertical-align: middle; line-height: 64px;" /><h2>item1</h2> 
+ <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" /><h2>item1</h2> 
 </div>
 
 ## items
@@ -13,7 +13,7 @@
 ## items with picture
 
 * item1
-![Pic1](https://www.linux.org/styles/uix/uix/logo.png?raw=true width=64x64)
+![Pic1](https://www.linux.org/styles/uix/uix/logo.png width=64x64)
 
 
 * item2 <img src="https://www.linux.org/styles/uix/uix/logo.png" alt="Linux" height="32" />
